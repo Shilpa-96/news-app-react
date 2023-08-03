@@ -1,0 +1,66 @@
+{
+  "status": "ok",
+  "totalResults": 6,
+  "articles": [
+    {
+      "source": { "id": "bleacher-report", "name": "Bleacher Report" },
+      "author": null,
+      "title": "☄️ Knicks Playoff Special ",
+      "description": "Fan easier, fan faster and fan better with Bleacher Report. Keep up with the latest storylines, expert analysis, highlights and scores for all your favorite sports.",
+      "url": "https://bleacherreport.com/videos/431020-knicks-start-playoff-run--hero-ball",
+      "urlToImage": null,
+      "publishedAt": "2023-06-20T16:52:23.4196804Z",
+      "content": "Knicks Start Playoff Run | Hero Ball"
+    },
+    {
+      "source": { "id": "espn", "name": "ESPN" },
+      "author": "John Keim",
+      "title": "Prospective Commanders owner invests in Joe Gibbs Racing - ESPN",
+      "description": "A company led by Josh Harris, who has reached an agreement to buy the Commanders -- and Arctos Partners, a sports private equity firm, have become minority investors in Joe Gibbs Racing.",
+      "url": "https://www.espn.com/racing/nascar/story/_/id/37885949/prospective-commanders-owner-invests-joe-gibbs-racing",
+      "urlToImage": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2023%2F0620%2Fr1188744_1296x729_16%2D9.jpg",
+      "publishedAt": "2023-06-20T16:51:00Z",
+      "content": "Harris Blitzer Sports and Entertainment -- a company led by Josh Harris, who has reached an agreement to buy the Washington Commanders -- and Arctos Partners, a sports private equity firm, have becom… [+2100 chars]"
+    },
+    {
+      "source": { "id": "google-news-au", "name": "Google News (Australia)" },
+      "author": "Wide World of Sports",
+      "title": "The first Ashes Test, day five LIVE: Nightwatchman Scott Boland falls as Aussies resume run chase after lengthy rain delay - Wide World of Sports",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiqQFodHRwczovL3d3b3MubmluZS5jb20uYXUvY3JpY2tldC90aGUtYXNoZXMtMjAyMy1saXZlLXNjb3Jlcy1lbmdsYW5kLWF1c3RyYWxpYS1maXJzdC10ZXN0LWRheS01LXNlcmllcy1oaWdobGlnaHRzLXJlc3VsdHMtbGF0ZXN0LW5ld3MvYzNhYTFmZTctMTIwMi00Y2ZmLThlNTYtMWI3ZWM2ZjU5Yzc30gFGaHR0cHM6Ly9hbXAubmluZS5jb20uYXUvbGl2ZS1ibG9nL2MzYWExZmU3LTEyMDItNGNmZi04ZTU2LTFiN2VjNmY1OWM3Nw?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-06-20T14:20:00+00:00",
+      "content": null
+    },
+    {
+      "source": { "id": "time", "name": "Time" },
+      "author": "Solcyre Burga",
+      "title": "What to Know About Texas Gov. Greg Abbott's Newly-Signed Laws Restricting Trans, DEI, and Labor Rights",
+      "description": "Texas Gov. Greg Abbott signed numerous bills this week, including some that restrict labor rights, ban transgender women from competing in sports, and bar universities and colleges from having their own diversity offices and training.",
+      "url": "http://time.com/6288145/texas-gov-greg-abbott-signed-several-bans-restrictions/",
+      "urlToImage": "https://api.time.com/wp-content/uploads/2023/06/GettyImages-1497023906.jpg?quality=85&w=1024&h=628&crop=1",
+      "publishedAt": "2023-06-18T21:05:45Z",
+      "content": "Texas Gov. Greg Abbott signed numerous bills this week, including some that restrict labor rights, ban transgender women from competing in sports, and bar universities and colleges from having their … [+3800 chars]"
+    },
+    {
+      "source": { "id": "bleacher-report", "name": "Bleacher Report" },
+      "author": null,
+      "title": "&#x27;The Voncast&#x27; with Myles Garrett",
+      "description": "Fan easier, fan faster and fan better with Bleacher Report. Keep up with the latest storylines, expert analysis, highlights and scores for all your favorite sports.",
+      "url": "https://bleacherreport.com/videos/304730-the-voncast-with-myles-garrett",
+      "urlToImage": null,
+      "publishedAt": "2022-12-01T18:52:49.4768049Z",
+      "content": "Myles Garrett and Von Miller talk playing in the NBA, pick their dream NFL defense and more"
+    },
+    {
+      "source": { "id": "nrk", "name": "NRK" },
+      "author": "NRK",
+      "title": "De siste sportsnyhetene fra NRK",
+      "description": "Her får du de siste sportsnyhetene fra NRK.",
+      "url": "https://www.nrk.no/sport/sportsnyheter-1.14660227#1.16454571.1.16454571",
+      "urlToImage": "https://gfx.nrk.no/7kT5zGoE2E-GnUKLojH1PQ0I1Nze4Ypu8lxM-oBjubQw.jpg",
+      "publishedAt": "2019-08-14T09:09:42Z",
+      "content": "19. juni2023kl.21:12Line Kloster og et knippe andre friidrettsprofiler blir likevel ikke en del av Norges tropp til lag-EM i Polen kommende helg.\r\nDet framgår av det oppdaterte uttaket på Norges Frii… [+1159 chars]"
+    }
+  ]
+}
